@@ -24,14 +24,7 @@ chmod +x ExeRipper.sh
 
 If You Have Any Complaints,Bugs Or Errors Please Make An Issue
 
-
-8""""8                                          8""""8           
-8    8   eeee e    e eeeee eeeee eeeee          8      eeee eeee 
-8eeee8ee 8    8    8 8   " 8  88 8   8          8eeeee 8    8  8 
-88     8 8eee 8eeee8 8eeee 8   8 8e  8              88 8eee 8e   
-88     8 88     88      88 8   8 88  8          e   88 88   88   
-88eeeee8 88ee   88   8ee88 8eee8 88  8          8eee88 88ee 88e8 
-                                                                 
-
-
+╔╗ ┌─┐┬ ┬┌─┐┌─┐┌┐┌      ╔═╗┌─┐┌─┐
+╠╩╗├┤ └┬┘└─┐│ ││││      ╚═╗├┤ │  
+╚═╝└─┘ ┴ └─┘└─┘┘└┘      ╚═╝└─┘└─┘
 
