@@ -23,7 +23,3 @@ chmod +x ExeRipper.sh
 
 
 If You Have Any Complaints,Bugs Or Errors Please Make An Issue
-
-┏┓ ┏━╸╻ ╻┏━┓┏━┓┏┓╻    ┏━┓┏━╸┏━╸
-┣┻┓┣╸ ┗┳┛┗━┓┃ ┃┃┗┫    ┗━┓┣╸ ┃  
-┗━┛┗━╸ ╹ ┗━┛┗━┛╹ ╹    ┗━┛┗━╸┗━╸
